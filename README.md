@@ -20,14 +20,14 @@ ____
     * **webpack.build.conf.js**
     * **webpack.dev.conf.js**
   * **src**
-   * **intex.html**
-   * **intex.js**
-   * **assets**
-    * **css**
-     * **fonts.css**
-     * **reset.css**
-     * **style.css**
-    * **fonts**
-    * **img**
-   * **js**
-   * **static**
+    * **intex.html**
+    * **intex.js**
+    * **assets**
+     * **css**
+      * **fonts.css**
+      * **reset.css**
+      * **style.css**
+     * **fonts**
+     * **img**
+    * **js**
+    * **static**

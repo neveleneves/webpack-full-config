@@ -10,24 +10,24 @@ ____
 ![Project Tree](https://github.com/neveleneves/webpack-full-config/blob/master/src/assets/img/treeconfig.PNG)
 
 * **Root files**
- * **.babelrc**
- * **package-lock.json**
- * **package.json**
- * **postcss.config.js**
+  * **.babelrc**
+  * **package-lock.json**
+  * **package.json**
+  * **postcss.config.js**
 * **Folders & other files**
- * **build**
-  * **webpack.base.conf.js**
-  * **webpack.build.conf.js**
-  * **webpack.dev.conf.js**
- * **src**
-  * **intex.html**
-  * **intex.js**
-  * **assets**
-   * **css**
-    * **fonts.css**
-    * **reset.css**
-    * **style.css**
-   * **fonts**
-   * **img**
-  * **js**
-  * **static**
+  * **build**
+   * **webpack.base.conf.js**
+   * **webpack.build.conf.js**
+   * **webpack.dev.conf.js**
+  * **src**
+   * **intex.html**
+   * **intex.js**
+   * **assets**
+    * **css**
+     * **fonts.css**
+     * **reset.css**
+     * **style.css**
+    * **fonts**
+    * **img**
+   * **js**
+   * **static**

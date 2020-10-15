@@ -32,12 +32,13 @@ ____
 ____
 ## Packages & Plugins
 * **Packages**
-  * **Webpack** - Project build system
+  * **Webpack** - Project build system.
   * **Babel** - JS-transcompiler.
   * **PostCSS** - Converts the original CSS to modified CSS using plugins.
-  * **webpack-merge** - Groups multiple config files into one
-  * **css-loader**, **file-loader** - Loaders for different project files 
-  * **webpack-dev-server** - Dev server for auto updates assets files
+  * **webpack-merge** - Groups multiple config files into one.
+  * **css-loader**, **file-loader** - Loaders for different project files. 
+  * **webpack-dev-server** - Dev server for auto updates assets files.
+  
 * **Plugins**
   * **autoprefixer** - plugin for PostCSS, auto prefixes in CSS styles.
   * **css-mqpacker** - plugin for PostCSS, optimization of media queries.

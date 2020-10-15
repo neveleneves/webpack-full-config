@@ -21,12 +21,12 @@ ____
   * **src**
     * **intex.html**
     * **intex.js**
-      * **assets**
+    * **assets**
        * **css**
         * **fonts.css**
         * **reset.css**
         * **style.css**
-     * **fonts**
-     * **img**
+       * **fonts**
+       * **img**
     * **js**
     * **static**

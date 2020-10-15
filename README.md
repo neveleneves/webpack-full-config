@@ -23,9 +23,9 @@ ____
     * **intex.js**
     * **assets**
        * **css**
-        * **fonts.css**
-        * **reset.css**
-        * **style.css**
+          * **fonts.css**
+          * **reset.css**
+          * **style.css**
        * **fonts**
        * **img**
     * **js**

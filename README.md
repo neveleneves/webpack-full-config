@@ -14,7 +14,7 @@ ____
   * package.json *- main info file about project*
   * postcss.config.js *- config file for PostCSS (used plugins and more)*
 * **Folders & other files**
-  * **build** *- webpack configs file for dev, build mode*
+  * **build** *--- webpack configs file for dev, build mode*
     * webpack.base.conf.js - main webpack config file for all modes
     * webpack.build.conf.js - config file for build mode
     * webpack.dev.conf.js - config file for dev mode

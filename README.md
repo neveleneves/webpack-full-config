@@ -1,5 +1,4 @@
 # webpack-full-config
-Full Webpack 5 config for quick development and project build
 ____
 ## Short description
 This project is a complete Webpack 5 config for fast development with dev server and to quickly build a web project by minifying CSS, JS, correctly connecting fonts and other assets files.
@@ -33,10 +32,16 @@ ____
 ____
 ## Packages & Plugins
 * **Packages**
-  *
-  *
-  *
+  * **Webpack** - Project build system
+  * **Babel** - JS-transcompiler.
+  * **PostCSS** - Converts the original CSS to modified CSS using plugins.
+  * **webpack-merge** - Groups multiple config files into one
+  * **css-loader, file-loader, babel-loader** - Loaders for different project files 
+  * **webpack-dev-server** - Dev server for auto updates assets files
 * **Plugins**
-  *
-  *
-  *
+  * **autoprefixer** - plugin for PostCSS, auto prefixes in CSS styles.
+  * **css-mqpacker** - plugin for PostCSS, optimization of media queries.
+  * **cssnano** - plugin for PostCSS, modular minimizer for optimization CSS.
+  * **copy-webpack-plugin** - plugin for Webpack, copy files from src to build.
+  * **html-webpack-plugin** - plugin for Webpack, build html-pages. 
+  * **mini-css-extract-plugin** - plugin for Webpack, extracting CSS into separate files.

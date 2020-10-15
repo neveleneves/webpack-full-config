@@ -23,8 +23,8 @@ ____
     * **assets** - folder for CSS, fonts, img and another assets files
        * **css** - folder for css stylies
           * **fonts.css** - for include fonts 
-          * **reset.css** - for reset 
-          * **style.css** - for reset all original browser styles
+          * **reset.css** - css file for reset the original browser styles
+          * **style.css** - main css file with styles
        * **fonts** - folder for fonts
        * **img** - folder for imges
     * **js** - folder for js-modules includes to index.js

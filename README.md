@@ -28,5 +28,5 @@ ____
           * **style.css** *- for reset all original browser styles*
        * **fonts** *- folder for fonts* 
        * **img** *- folder for imges*
-      * **js** - folder for js-modules includes to index.js
-      * **static** - folder for sitemap, favicon files 
+    * **js** - folder for js-modules includes to index.js
+    * **static** - folder for sitemap, favicon files 

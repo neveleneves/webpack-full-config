@@ -8,7 +8,6 @@ This project is a complete Webpack 5 config for fast development with dev server
 ____
 ## Project structure
 ![Project Tree](https://github.com/neveleneves/webpack-full-config/blob/master/src/assets/img/treeconfig.PNG)
-
 * **Root files**
   * **.babelrc**
   * **package-lock.json**

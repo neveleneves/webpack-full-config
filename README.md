@@ -15,9 +15,9 @@ ____
   * postcss.config.js *- config file for PostCSS (used plugins and more)
 * **Folders & other files**
   * **build** *- webpack configs file for dev, build mode
-        * webpack.base.conf.js - main webpack config file for all modes
-        * webpack.build.conf.js - config file for build mode
-        * webpack.dev.conf.js - config file for dev mode
+    * webpack.base.conf.js - main webpack config file for all modes
+    * webpack.build.conf.js - config file for build mode
+    * webpack.dev.conf.js - config file for dev mode
   * **src** *- all source for build  
     * intex.html *- main html-page
     * intex.js - main js-script for include styles, js-modules

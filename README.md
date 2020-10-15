@@ -7,7 +7,8 @@ This project is a complete Webpack 5 config for fast development with dev server
 **Important: This configuration does not contain the configuration of preprocessors and frameworks.**
 ____
 ## Project structure
-![Project Tree](https://github.com/neveleneves/webpack-full-config/blob/master/src/assets/img/treeconfig.PNG)* **Root files**
+![Project Tree](https://github.com/neveleneves/webpack-full-config/blob/master/src/assets/img/treeconfig.PNG)
+* **Root files**
   * **.babelrc**
   * **package-lock.json**
   * **package.json**
@@ -20,11 +21,11 @@ ____
   * **src**
     * **intex.html**
     * **intex.js**
-    * **assets**
-     * **css**
-      * **fonts.css**
-      * **reset.css**
-      * **style.css**
+      * **assets**
+       * **css**
+        * **fonts.css**
+        * **reset.css**
+        * **style.css**
      * **fonts**
      * **img**
     * **js**
